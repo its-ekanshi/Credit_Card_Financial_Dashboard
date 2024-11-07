@@ -24,3 +24,13 @@ transactions<br>
 • TX, NY & CA is contributing to 68%<br>
 • Overall Activation rate is 57.5%<br>
 • Overall Delinquent rate is 6.06%</h4>
+<h2>About</h2>
+<h3>Credit card financial dashboard using Power BI:</h3>
+<h4>• Developed an interactive dashboard using
+transaction and customer data from a SQL database,
+to provide real-time insights.<br>
+• Streamlined data processing & analysis to monitor
+key performance metrics and trends.<br>
+• Shared actionable insights with stakeholders based
+on dashboard findings to support decision-making
+processes.</h4>

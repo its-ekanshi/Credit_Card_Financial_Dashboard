@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dasboard
+# Credit_Card_Financial_Dashboard
 <h2>Project Objective</h2>
 <h3>To develop a comprehensive credit
 card weekly dashboard that

@@ -1,12 +1,6 @@
 # Credit_Card_Financial_Dashboard
 <h2>Project Objective</h2>
-<h3>To develop a comprehensive credit
-card weekly dashboard that
-provides real-time insights into key
-performance metrics and trends,
-enabling stakeholders to monitor
-and analyze credit card operations
-effectively.</h3>
+<h3>Developed a comprehensive credit card dashboard to provide real-time insights into key performance metrics, enabling effective monitoring and analysis of credit card operations.</h3>
 <h2>Project Insights</h2>
 <h3>
 ▪️ Overall Revenue is 55.3M

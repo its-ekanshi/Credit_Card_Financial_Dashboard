@@ -1,15 +1,39 @@
-# Credit_Card_Financial_Dashboard
-<h2>Project Objective</h2>
-<h3>Developed a comprehensive credit card dashboard to provide real-time insights into key performance metrics, enabling effective monitoring and analysis of credit card operations.</h3>
-<h2>Project Insights</h2>
-<h3>
-▪️ Overall Revenue is 55.3M
-▪️ Total Interest is 8M
-▪️ Total Transaction amount is 45M
-▪️ Male customers are contributing more in revenue 30M, Female 25M.
-▪️ Blue & Silver credit card are contributing to 93% of overall Transactions.
-▪️ TX, NY & CA is contributing to 68%
-▪️ Overall Activation rate is 57.5%
-▪️ Businessman contribute the most to revenue
-▪️ Bills, Entertainment, and Fuel are the top spending categories
-</h3>
+# 📊 Credit Card Financial Dashboard
+
+## 📌 Overview
+This **Credit Card Financial Dashboard** provides a comprehensive analysis of credit card transactions, revenue, and customer demographics. Built using **Power BI, PostgreSQL, and Excel**, it enables data-driven decision-making for financial institutions by identifying spending patterns, customer segmentation, and transaction trends.
+
+## 🔥 Key Insights
+- **Total Revenue:** $55.3M | **Total Interest:** $7.8M | **Total Transactions:** 656K
+- **Top Revenue Categories:**
+  - **Bills:** $14M
+  - **Entertainment:** $10M
+  - **Fuel & Grocery:** $9M each
+- **Revenue by Card Type:**
+  - **Blue Card:** $46.1M
+  - **Gold Card:** $2.4M
+  - **Platinum Card:** $1.1M
+- **Transaction Trends:**
+  - **Highest Revenue Quarter:** Q3 ($14.2M)
+  - **Preferred Payment Mode:** Swipe ($35M) over Chip & Online
+
+## 📌 Dashboards
+### 1️⃣ Credit Card Transaction Report
+📷 ![Dashboard Screenshot](dashboard%20(CC-1).png)
+
+### 2️⃣ Credit Card Customer Report
+📷 ![Dashboard Screenshot](dashboard%20(CC-2).png)
+
+## 🛠️ Tools & Technologies Used
+- **Power BI** – Data visualization and dashboard creation
+- **PostgreSQL** – Data storage and query execution
+- **Excel** – Data cleaning and preprocessing
+
+## 🎯 Insights & Business Impact
+✔ Helps in **understanding customer spending behavior** and segmentation.
+✔ Identifies **top-performing customer groups** based on job, education, and demographics.
+✔ Enables **better resource allocation** for marketing and customer acquisition strategies.
+✔ Improves **financial decision-making** by tracking revenue trends.   
+
+## 📩 Connect with Me
+📧 [LinkedIn](https://www.linkedin.com/in/its-ekanshi/) | 🔗 [GitHub](https://github.com/its-ekanshi/)

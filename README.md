@@ -36,4 +36,4 @@ This **Credit Card Financial Dashboard** provides a comprehensive analysis of cr
 ✔ Improves **financial decision-making** by tracking revenue trends.   
 
 ## 📩 Connect with Me
-📧 [LinkedIn](https://www.linkedin.com/in/its-ekanshi/) | 🔗 [GitHub](https://github.com/its-ekanshi/)
+📧 [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/) | 🔗 [GitHub](https://github.com/its-ekanshi/)
